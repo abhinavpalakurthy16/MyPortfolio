@@ -4,7 +4,7 @@ This is my portfolio which is built in REACT.
 
 ### [live preview](link here)
 
-![react portfoiio](public/images/myPortfolio.png)
+![react portfoiio](public/images/screen.png)
 
 
 ### Features
