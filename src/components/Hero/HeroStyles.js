@@ -37,7 +37,7 @@ font-size:90px;
 `;
 
 export const Span2 = styled.span`
-  font-size: 9rem;
+  font-size: 5rem;
   background: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

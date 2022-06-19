@@ -13,10 +13,10 @@ function Hero() {
   useEffect(() => {
     init(textRef.current, {
       showCursor: false,
-      typeSpeed: 120,
+      typeSpeed: 140,
       backSpeed: 30,
-      loop: true,
-      strings: ["Front-End", "Back-End", "FullStack"],
+      loop: false,
+      strings: ["I'm a Front End Developer...!"],
     });
   }, []);
   return (
@@ -24,8 +24,7 @@ function Hero() {
       <LeftSection>
         <SectionTitle main center>
           <Span> Hi there, I'm Abhinav</Span> <br />
-          Web Developer
-          <Span2 style={{ marginLeft: "2rem" }} ref={textRef}></Span2>
+          <Span2 ref={textRef}></Span2>
         </SectionTitle>
         <SectionText2>
            Passionate Front end Software engineer with 7+ years of experience and broad perspective in both creative and front-end development.
