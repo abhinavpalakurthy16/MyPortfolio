@@ -2,7 +2,7 @@
 
 This is my portfolio which is built in REACT. 
 
-### [live preview](link here)
+### [live preview](https://my-portfolio-9z8rgoyjj-abhinavpalakurthy16.vercel.app/)
 
 ![react portfoiio](public/images/screen.png)
 
