@@ -1,5 +1,35 @@
-## This is my Portfolio
+### description
 
-This portfolio was built with React.JS and next. Many styled-components was created to be used everywhere on the app. This website is entirely responsive and i used ityped for the dynamic text on the hero.
+This is my portfolio which is built in REACT. 
 
-![Portfolio Website](https://zupimages.net/up/22/03/epub.png)
+### [live preview](link here)
+
+![react portfoiio](public/images/myPortfolio.png)
+
+
+### Features
+
+- Fully Responsive - Used media queries
+- React/ContextAPI/Hooks
+- NextJs
+
+
+### Setup
+
+Get the code.
+
+ <pre>git clone https://github.com/abhinavpalakurthy16/MyPortfolio.git</pre>
+ 
+Install required dependencies
+
+<pre>npm install</pre>
+
+
+How to start the server?
+
+<pre>npm run dev</pre>
+
+### Thanks
+If you like this portfolio template don't forget give it a ⭐ 
+ 
+
