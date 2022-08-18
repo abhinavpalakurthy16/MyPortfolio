@@ -48,9 +48,6 @@ const Timeline = () => {
         When I'm not pushing pixels or logics, you'll find me cooking, chilling or go out with my friends.
       </SectionSubText>
       <br />
-      <SecondaryBtn href="/resume.pdf" target="_blank" download>
-        Download my Resume
-      </SecondaryBtn>
       <SectionTitle>Education</SectionTitle>
       <SectionText>
         <IoSchool

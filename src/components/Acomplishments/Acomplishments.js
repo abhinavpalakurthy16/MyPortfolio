@@ -20,10 +20,6 @@ const data = [
     img: "/images/amex.png"
   },
   {
-    text: "Onetrust",
-    img: "/images/onetrust.png"
-  },
-  {
     text: "Principal Financial Group",
     img: "/images/principal.png"
   },
